@@ -1,6 +1,6 @@
 # پیشنمایش
 
-[مشاهده](https://hamzehazizzadeh.ir/DevFolio/)
+[مشاهده](https://hamzehazizzadeh.ir/devfolio/)
 
 # توضیحات
 

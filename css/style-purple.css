@@ -1110,6 +1110,10 @@ footer .credits a {
   color: #fff;
 }
 
+.footerLink:hover{
+  color: whitesmoke !important;
+}
+
 /*======================================
 //--//-->   CONtaCT FORM
 ======================================*/
@@ -1203,6 +1207,12 @@ footer .credits a {
 @media (min-width: 577px) {
   .counter-box {
     margin-bottom: 1.8rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .about-mf {
+    text-align: center;
   }
 }
 
